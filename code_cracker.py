@@ -29,7 +29,7 @@ def generate_clues(code,user_guess):
 print("Welcome to Code Cracker!")
 
 code = generate_code()
-print(code)
+#print(code)
 clueReport = []
 
 while clueReport !="CODE CRACKED!":
